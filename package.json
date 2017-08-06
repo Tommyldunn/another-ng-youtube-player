@@ -1,6 +1,6 @@
 {
   "name": "another-ng-youtube-player",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Super simple youtube-player wrapper",
   "main": "./bundles/another-ng-youtube-player.umd.js",
   "module": "./modules/another-ng-youtube-player.es5.js",

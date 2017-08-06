@@ -21,8 +21,8 @@ export class YoutubePlayerService {
 
   private isFullscreen: boolean = false;
   private defaultSizes = {
-    height: 270,
-    width: 367
+    height: 360,
+    width: 640
   };
 
   constructor(private zone: NgZone) {

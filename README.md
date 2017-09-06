@@ -17,7 +17,7 @@ Currently supported attributes:
 * **change** - a state change event channeling the youtube's player instance state event object
 
 ## DEMO
-[A Live Demo In Plnkr](http://run.plnkr.co/preview/cj78lb1wb00083i5qdkcwdovm/)
+[A Live Demo In Plnkr](http://embed.plnkr.co/iu11BiRh4r9wmgA2Vp4A/)
 
 ## Usage
 First, import the YoutubePlayerModule to your module:

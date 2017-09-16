@@ -1,6 +1,6 @@
 {
   "name": "another-ng-youtube-player",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Super simple youtube-player wrapper",
   "main": "./bundles/another-ng-youtube-player.umd.js",
   "module": "./modules/another-ng-youtube-player.es5.js",
@@ -24,7 +24,6 @@
   "bugs": {
     "url": "https://github.com/Tommyldunn/another-ng-youtube-player/issues"
   },
-
   "license": "MIT",
   "peerDependencies": {
     "@angular/common": ">= 4.0.0",
@@ -40,12 +39,12 @@
     "@angular/platform-browser": "^4.0.0",
     "@angular/platform-browser-dynamic": "^4.0.0",
     "@angular/platform-server": "^4.0.0",
+    "@compodoc/compodoc": "^1.0.1",
     "@types/jasmine": "2.5.46",
     "@types/node": "7.0.10",
     "@types/youtube": "0.0.29",
     "chalk": "1.1.3",
     "codelyzer": "3.0.0-beta.4",
-    "compodoc": "0.0.41",
     "core-js": "2.4.1",
     "jasmine-core": "2.5.2",
     "karma": "1.5.0",
